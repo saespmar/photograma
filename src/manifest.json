@@ -1,0 +1,7 @@
+{
+    "manifest_version": 2,
+    "name": "Photograma",
+    "description": "Download Instagram stories with a Chrome extension",
+    "version": "0.1",
+    "default_locale": "en"
+}
