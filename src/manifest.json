@@ -3,5 +3,9 @@
     "name": "Photograma",
     "description": "Download Instagram stories with a Chrome extension",
     "version": "0.1",
-    "default_locale": "en"
+    "icons": {
+        "16": "images/icon_16.png",
+        "48": "images/icon_48.png",
+        "128": "images/icon_128.png"
+    }
 }
