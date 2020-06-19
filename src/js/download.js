@@ -1,4 +1,9 @@
-download(document.querySelector("#react-root > section > div > div > section > div img").src)
+{
+  const image = document.querySelector("#react-root > section > div > div > section > div img");
+  const video = document.querySelector("#react-root > section > div > div > section > div source");
+  const asset = video ?? image;
+  download(asset.src);
+}
 
 async function download(url) {
   const temporalLink = document.createElement("a");
