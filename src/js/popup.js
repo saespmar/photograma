@@ -1,8 +1,7 @@
-let download = document.getElementById('download');
+let downloadButton = document.getElementById('download');
 
-download.onclick = function(element) {
+downloadButton.onclick = function(element) {
   chrome.tabs.query({active: true, currentWindow: true}, function(tabs) {
-    chrome.tabs.executeScript(
-      {file: "js/change.js"});
+    chrome.tabs.executeScript({file: "js/download.js"});
   });
 };

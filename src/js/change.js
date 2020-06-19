@@ -1,1 +1,0 @@
-document.querySelector("#react-root section div div div div div div div a").style.backgroundColor = "green";
