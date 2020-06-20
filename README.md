@@ -1,7 +1,7 @@
 # Photograma 📷
 
 ![Version](https://img.shields.io/badge/version-0.1-blue.svg)
-![GitHub](https://img.shields.io/github/license/saespmar/photograma)
+[![GitHub](https://img.shields.io/github/license/saespmar/photograma)](https://github.com/saespmar/photograma/blob/master/LICENSE)
 [![GitHub issues](https://img.shields.io/github/issues/saespmar/photograma)](https://github.com/saespmar/photograma/issues)
 [![GitHub stars](https://img.shields.io/github/stars/saespmar/photograma)](https://github.com/saespmar/photograma/stargazers)
 
